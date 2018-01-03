@@ -1,0 +1,58 @@
+th.vaaka{
+	text-align: left;
+	color: black;
+	font-size: 20px;
+}
+th.pysty{
+	color: black;
+	font-size: 20px;
+}
+td{
+	color:black;
+}
+
+input[type="button"], input[type="submit"]{
+	background-color: blue;
+	color: white;
+	cursor: pointer;
+	border-radius: 12px;
+	width: 150px;
+	height: 40px;
+	font-weight: bold;
+}
+table{
+	border-radius: 12px;
+	width: 550px;
+	background-color: yellow;
+	border: 2px solid blue;
+}
+.poista{
+	text-decoration: none;
+	color: red;
+	font-weight: bold;
+}
+.muuta{
+	text-decoration: none;
+	color: green;
+	font-weight: bold;	
+}
+.painikkeet{
+	text-align: center;	
+}
+#kirjaudu{
+	background-color: yellow;
+    color: black;    
+    width: 330px;
+	border-radius: 12px;	
+	padding: 16px;
+	
+}
+span.login{	
+	width: 90px;
+	display: inline-block;
+	text-align: right;	
+	padding: 7px;
+}
+body {
+    background-color: lightgreen;
+}
